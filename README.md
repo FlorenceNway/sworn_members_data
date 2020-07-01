@@ -1,5 +1,6 @@
 # Sworn members mini app 
 
+search sworn members by typing any letter of their name in search box
 Data are retrieved from the  API https://anapioficeandfire.com/api/houses/ 
 
 
